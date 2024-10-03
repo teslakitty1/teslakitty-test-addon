@@ -2,7 +2,7 @@
 name: teslakitty
 version: "1.0"
 slug: teslakitty
-description: Example add-on
+description: teslakitty-addons
 url: "https://github.com/home-assistant/addons-example/tree/main/example"
 arch:
   - armhf
