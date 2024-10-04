@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: teslakitty-test-addon
-url: 'https://github.com/teslakitty/teslakitty-test-addon'
+name: teslakitty-addons
+url: 'https://github.com/teslakitty/teslakitty-ha'
 maintainer: teslakitty <jameskuyt655@gmail.com>
