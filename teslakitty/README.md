@@ -1,2 +1,2 @@
 # main teslakitty addon
-## install teslakitty webserver first before installing this addon
+## INSTALL TESLAKITTY WEBSERVER ADDON BEFORE INSTALLING THIS ADDON

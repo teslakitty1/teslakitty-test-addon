@@ -1,1 +1,2 @@
 # teslakitty webserver
+## INSTALL FIRST BEFORE INSTALLING MAIN ADDON
