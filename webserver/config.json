@@ -1,0 +1,15 @@
+{
+  "name": "teslakitty_webserver",
+  "version": "1.0",
+  "slug": "teslakitty_webserver",
+  "description": "A Home Assistant add-on with a web server, supporting arm64.",
+  "arch": ["amd64", "armv7", "aarch64"], 
+  "startup": "application",
+  "boot": "auto",
+  "ports": {
+      "5000/tcp": 5000
+  },
+  "webui": "http://[HOST]:[PORT:5000]",
+  "schema": {},
+  "host_network": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "teslakitty",
+  "version": "1.0",
+  "slug": "teslakitty",
+  "description": "A Home Assistant add-on for the main logic, supporting arm64.",
+  "arch": ["amd64", "armv7", "aarch64"], 
+  "startup": "application",
+  "boot": "auto",
+  "schema": {},
+  "host_network": true
+}
