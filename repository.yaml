@@ -1,0 +1,10 @@
+name: teslakitty
+version: 1.0
+slug: teslakitty
+description: Home Assistant add-on for Teslakitty services
+url: https://github.com/teslakitty/teslakitty-ha
+arch:
+  - amd64
+  - armv7
+  - aarch64
+   # Add other configuration details
