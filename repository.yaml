@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: teslakitty-addons
-url: 'https://github.com/teslakitty/teslakitty-ha'
-maintainer: teslakitty <jameskuyt655@gmail.com>
+name: Example Home Assistant add-on repository
+url: 'https://github.com/home-assistant/addons-example'
+maintainer: Awesome Maintainer <awesome@example.com>

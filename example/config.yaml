@@ -1,9 +1,9 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
-name: teslakitty_web
-version: "1.0"
-slug: teslakitty_web
-description: teslakitty web server
-url: "https://github.com/teslakitty/teslakitty-ha"
+name: Example add-on
+version: "1.2.0"
+slug: example
+description: Example add-on
+url: "https://github.com/home-assistant/addons-example/tree/main/example"
 arch:
   - armhf
   - armv7
